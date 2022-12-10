@@ -88,6 +88,9 @@ gerenciar, atualizar, e que descrevem a proposta/solução a ser desenvolvida.
     OBS: Usar o colab para apresentar os resultados que devem incluir as instruções SQL + resultados em forma de tabela.<br>
 #### 9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
 
+[Template para atividads 9.1 a 9.10](https://github.com/discipbdint/public_samples/blob/main/template_Sprint_2_trab.ipynb "Template para atividads 9.1 a 9.10")
+
+
 ># Marco de Entrega 01: Do item 1 até o item 9.1<br>
 
 #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 4)<br>
